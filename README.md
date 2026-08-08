@@ -83,3 +83,6 @@ Receive Production-Ready Data: We run your assets through our domain-randomized 
 We will generate a free, 50-frame sample dataset of your specific 3D asset so your engineering team can test and verify the coordinate alignment in your own training pipeline.
 Contact Person: Mubeen Fatima
 Email: contact.synthgen@gmail.com
+
+Whole pipleine is available get it from this link: https://mubeenfatima717.gumroad.com/l/synthgen-blender
+You can also get a customized pipeline contact on the email above.
