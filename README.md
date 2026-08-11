@@ -18,8 +18,8 @@ https://github.com/user-attachments/assets/e44be4f7-708c-49e9-b8c4-d54bf67531e8
 
 ## ⚙️ Core Pipeline Features
 
-* **Real-Time Viewport Bounding Box Tracking:** Features a highly visual, viewport-space projection system to verify 2D bounding boxes dynamically as objects rotate and scale [1.1.1].
-* **Robust Domain Randomization:** Automatically shuffles the object's 3D pose, surface material properties (metallic, roughness, hue, saturation), and lighting intensities on every single frame to ensure high real-world model generalization [1.1.7].
+* **Real-Time Viewport Bounding Box Tracking:** Features a highly visual, viewport-space projection system to verify 2D bounding boxes dynamically as objects rotate and scale.
+* **Robust Domain Randomization:** Automatically shuffles the object's 3D pose, surface material properties (metallic, roughness, hue, saturation), and lighting intensities on every single frame to ensure high real-world model generalization.
 * **Transparent Background Outputs:** Renders target assets directly as transparent PNGs with alpha-channels. This allows machine learning pipelines to composite the objects onto thousands of diverse backgrounds, completely eliminating background bias during training .
 * **Multi-Format Export Engine:** Automatically formats and writes bounding box annotations into industry-standard YOLO text files or structured COCO JSON databases on the fly.
 * **Mathematical Verification (QA):** Includes a separate verification script that parses the generated annotation coordinates and overlays bounding boxes onto the rendered transparent images to ensure zero coordinate drift.
