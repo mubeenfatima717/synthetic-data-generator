@@ -68,21 +68,6 @@ A single, centralized relational database containing all images, categories, and
     ]
 }
 
-💼 Dataset-as-a-Service (DaaS) Offerings
-
-We provide complete, custom synthetic dataset generation tailored specifically to your physical products, warehouse items, or industrial components
-
-How the Service Works:
-
-Send Us Your 3D Assets: Provide your CAD files, photogrammetry meshes, or standard 3D models.
-Specify Your Parameters: Define your target resolutions, sample sizes, and desired label formats (YOLO/COCO).
-Receive Production-Ready Data: We run your assets through our domain-randomized pipeline and deliver thousands of                                           transparent, pre-annotated frames ready to plug directly into your training loops.
-
-📩 Request a Free Sample Dataset
-
-We will generate a free, 50-frame sample dataset of your specific 3D asset so your engineering team can test and verify the coordinate alignment in your own training pipeline.
-Contact Person: Mubeen Fatima
-Email: contact.synthgen@gmail.com
 
 Whole pipleine is available get it from this link: https://mubeenfatima717.gumroad.com/l/synthgen-blender
 You can also get a customized pipeline contact on the email above.
