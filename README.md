@@ -69,5 +69,3 @@ A single, centralized relational database containing all images, categories, and
 }
 
 
-Whole pipleine is available get it from this link: https://mubeenfatima717.gumroad.com/l/synthgen-blender
-You can also get a customized pipeline contact on the email above.
