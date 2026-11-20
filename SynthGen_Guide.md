@@ -189,5 +189,3 @@ Controls the sky environment maps used to light your scene.
 - **COCO output:** Automatically compiles all annotations into a single, structured `labels.json` manifest at the end of the run.
 
 ---
-
-If you want custom dataset or custom pipeline contact me: https://www.linkedin.com/in/mubeen-fatima-66a276373/
