@@ -11,7 +11,6 @@ By eliminating the manual data labeling bottleneck, this pipeline produces mathe
 
 ## 📺 Pipeline Demonstration
 
-https://github.com/user-attachments/assets/e44be4f7-708c-49e9-b8c4-d54bf67531e8
 
 .
 ---
